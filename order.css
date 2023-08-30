@@ -52,7 +52,7 @@ p{
     width: 100%;
     align-items: center;
     position: relative}
-.subscribtion>*{
+.subscribtion>*{color: hsl(223, 47%, 23%);
     margin: 10px}
 .price{
     font-weight: initial;
